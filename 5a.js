@@ -1,4 +1,4 @@
 let pessoa = { nome: "Ana", idade: 25, cidade: "Curitiba" };
-for (let chave in pessoa) {
-  console.log(chave);
+for (let elemento in pessoa) {
+  console.log(elemento);
 }
