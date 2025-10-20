@@ -1,5 +1,5 @@
-let c = 0;
-
-while (let c = 0; c <= 5; c++ ){
-    console.log(c)
+let contador = 0;
+while(contador <= 5){
+    console.log(contador)
+    contador++;
 }

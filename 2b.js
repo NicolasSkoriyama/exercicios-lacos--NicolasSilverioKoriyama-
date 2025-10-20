@@ -1,5 +1,6 @@
 let numero = 10
 
-while(let numero = 10; numero >= 0; numero--){
+while(numero >= 0){
     console.log(numero)
+    numero--
 }
